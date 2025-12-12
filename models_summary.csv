@@ -1,0 +1,4 @@
+model,notes
+RandomForest,RF trained on lag+engineered features
+ARIMA,ARIMA univariate fit on Close
+LSTM,"LSTM small network, 12 epochs"
