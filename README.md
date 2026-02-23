@@ -43,6 +43,3 @@ The project generates specialized forecast reports for each model:
     Open ⁠ time_series.ipynb ⁠ in Jupyter Notebook or VS Code and run all cells to generate the forecasts.
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
