@@ -19,10 +19,6 @@ Predicting stock market trends is challenging due to high volatility. This proje
 •⁠  ⁠*Stationarity Testing:* Includes Augmented Dickey-Fuller (ADF) tests to ensure data readiness for statistical modeling.
 •⁠  ⁠*Feature Engineering:* Implements rolling windows and lag features to capture temporal dependencies.
 
-## 🗺️ Project Pipeline
-(Note: Replace the link below with your friend's flowchart image once generated)
-<img width="500" alt="Time Series Pipeline" src="https://github.com/user-attachments/assets/YOUR-IMAGE-LINK-HERE" />
-
 ---
 
 ## 🌐 Project Results
